@@ -23,3 +23,4 @@ result = feed_cows(N, M, cow_heights, candy_heights)
 # Output
 for i in range(N):
     print(result[i] + cow_heights[i])
+#randomcommit
